@@ -12,6 +12,12 @@ public class Class_001 {
 		for(int i = 0; i < args.length; i++) {
 			
  }
+		
+		/*TASK:
+		 * Type 2 lines of code and save them on your editor.
+		 * Create a new commit and merge your commit to your
+		 * other branch. 
+		 */
 
 		//Today we have seen new commands on Git and GitHub
 	}
